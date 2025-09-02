@@ -98,7 +98,6 @@ Additional KPI Metrics: Average Rating by visibility bucket.
 >**Observation :** Most products with low visibility (0–0.05) still generate a significant portion of sales, while higher visibility does not consistently translate to higher sales. Ratings appear fairly evenly distributed across all visibility levels, suggesting customer satisfaction is not strongly dependent on shelf exposure. Blinkit can focus on optimizing product quality and ratings rather than just increasing shelf space, as even low-visibility items can perform well. This indicates a strong opportunity to boost underexposed high-performing products through promotions or better placement strategies.
 
 
-
 ### 8. Sales by Outlet Type : 
 
 Objective: Compare how different outlet types (Supermarket Type1, Grocery Store, etc.) contribute to total sales.
@@ -127,6 +126,7 @@ Additional KPI Metrics: Average Rating of top-selling items.
   <img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure0.jpg" 
        alt="figure0_img" style="max-width:100%; height:auto;"/>
 </p>
+
 ## Conclusion :
 
 The analysis shows that Low Fat products, Supermarket Type1 outlets, and Tier 3 locations are the main revenue drivers for Blinkit. Medium-sized outlets and older establishments also perform strongly, while certain categories like Fruits & Vegetables and Snack Foods dominate sales. On the other hand, categories such as Seafood and Breakfast, as well as smaller outlet types, need targeted support. Since product visibility does not strongly impact sales, Blinkit should focus on quality, availability, and customer engagement to boost overall performance and sustain growth. 
