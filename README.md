@@ -14,7 +14,7 @@ This dashboard will enable stakeholders to make data-driven decisions for improv
 
 
 ## Project Overview :  
-**Telco Customer Churn Data :**
+Write here
 
 
 ## KPI’s Requirements :
