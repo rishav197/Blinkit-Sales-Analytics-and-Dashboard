@@ -17,6 +17,11 @@ This dashboard will enable stakeholders to make data-driven decisions for improv
 Write here
 
 
+## Dataset :
+
+**Blinkit Data :** [Download Dataset](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Dataset/blinkit_data.csv)
+
+
 ## KPI’s Requirements :
 
 1. **Total Sales** : $12,01,681
