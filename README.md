@@ -78,9 +78,8 @@ Outlets established in 1998 achieved the highest sales (~204K), while those from
 
 Objective: Analyze the correlation between outlet size and total sales.
 
-Chart Type: Donut/ Pie Chart.
-> ![Fat Content by Outlet]()
->**Observation :** Here 
+> ![Sales by Outlet Size](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/sales_by_outlet_size.png)
+>**Observation :** Medium-sized outlets contribute the highest sales (42.3%), followed by Small outlets (37.0%) and High outlets (20.7%). Despite having larger capacity, High outlets record the lowest sales share. Blinkit should strengthen marketing and customer engagement for High outlets to utilize their potential capacity, while continuing to leverage the strong performance of Medium and Small outlets for consistent revenue growth.
 
 
 
