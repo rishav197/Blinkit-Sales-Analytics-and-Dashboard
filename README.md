@@ -35,17 +35,17 @@ Write here
 
 
 
-
 ## EDA and Detailed Insights :
 
 
 <!-- Charts requirements -->
 ### 1. Total Sales by Fat Content :
 
- Objective: Analyze the impact of fat content on total sales.
+Objective: Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
 > ![Sales by Fat Content](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/sales_by_fat_content.png)
+>**Observation :** Low Fat items account for 64.6% of total sales, while Regular items contribute 35.4%, showing a clear customer preference toward Low Fat products. Blinkit can focus inventory and marketing efforts on Low Fat products to maximize sales, while designing targeted promotions for Regular items to balance demand.
 
 
 **2. Total Sales by Item Type :**
