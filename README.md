@@ -69,8 +69,9 @@ Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, A
 
 Objective: Evaluate how the age or type of outlet establishment influences total sales.
 
-> ![Fat Content by Outlet]()
->**Observation :** Here 
+> ![Fat Content by Outlet](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/sales_by_outlet_establishment.png)
+>**Observation :** Across all outlet tiers, 
+Outlets established in 1998 achieved the highest sales (~204K), while those from 2011 recorded the lowest (~78K). Sales for outlets established after 2000 remain relatively stable in the 130K range, with only minor fluctuations. Older outlets (like 1998) demonstrate stronger sales performance, suggesting the value of brand trust and customer loyalty over time. Blinkit should focus on supporting newer outlets with marketing and customer engagement strategies to boost their sales.
 
 
 ### 5. Sales by Outlet Size :
