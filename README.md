@@ -120,10 +120,13 @@ Additional KPI Metrics: Average Rating of top-selling items.
 
 ## Dashboard with Key Insights :
 
-Put here 
+<!-- Dashboard image -->
+<img src="https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/blinkit-sales-analytics-dashboard.jpg" alt="figure0_img" width="100%"/>
 
-
-
+<p align="center">
+  <img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure0.jpg" 
+       alt="figure0_img" style="max-width:100%; height:auto;"/>
+</p>
 ## Conclusion :
 
 The analysis shows that Low Fat products, Supermarket Type1 outlets, and Tier 3 locations are the main revenue drivers for Blinkit. Medium-sized outlets and older establishments also perform strongly, while certain categories like Fruits & Vegetables and Snack Foods dominate sales. On the other hand, categories such as Seafood and Breakfast, as well as smaller outlet types, need targeted support. Since product visibility does not strongly impact sales, Blinkit should focus on quality, availability, and customer engagement to boost overall performance and sustain growth. 
