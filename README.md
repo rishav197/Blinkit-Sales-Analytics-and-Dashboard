@@ -16,19 +16,19 @@ This dashboard will enable stakeholders to make data-driven decisions for improv
 ## Project Overview :  
 
 
+
 ## KPI’s Requirements :
 
-1. Total Sales : The overall revenue generated from all items sold.
-- Total Sales : $1201681 
+1. Total Sales : $12,01,681
+    - The overall revenue generated from all items sold.
+2. Average Sales : $141 
+The average revenue per sale
+3. Number of Items : 8,523 
+The total count of different items sold.
+4. Average Rating : 4
+The average customer rating for items sold.
 
-2. Average Sales : The average revenue per sale
-- Average Sales : $141
 
-3. Number of Items : The total count of different items sold.
-- No. of Items Sold : 8523
-
-4. Average Rating : The average customer rating for items sold. 
-- Average Ratings : 4
 
 
 
