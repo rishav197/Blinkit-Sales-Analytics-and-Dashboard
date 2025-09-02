@@ -14,19 +14,19 @@ This dashboard will enable stakeholders to make data-driven decisions for improv
 
 
 ## Project Overview :  
-
+**Telco Customer Churn Data :**
 
 
 ## KPI’s Requirements :
 
-1. Total Sales : $12,01,681
+1. **Total Sales** : $12,01,681
     - The overall revenue generated from all items sold.
-2. Average Sales : $141 
-The average revenue per sale
-3. Number of Items : 8,523 
-The total count of different items sold.
-4. Average Rating : 4
-The average customer rating for items sold.
+2. **Average Sales** : $141 
+    - The average revenue per sale
+3. **Number of Items** : 8,523 
+    - The total count of different items sold.
+4. **Average Rating** : 4
+    - The average customer rating for items sold.
 
 
 
