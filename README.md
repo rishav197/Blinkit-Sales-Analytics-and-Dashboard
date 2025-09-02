@@ -126,5 +126,5 @@ Put here
 
 ## Conclusion :
 
-Write 
-Here
+The analysis shows that Low Fat products, Supermarket Type1 outlets, and Tier 3 locations are the main revenue drivers for Blinkit. Medium-sized outlets and older establishments also perform strongly, while certain categories like Fruits & Vegetables and Snack Foods dominate sales. On the other hand, categories such as Seafood and Breakfast, as well as smaller outlet types, need targeted support. Since product visibility does not strongly impact sales, Blinkit should focus on quality, availability, and customer engagement to boost overall performance and sustain growth. 
+
