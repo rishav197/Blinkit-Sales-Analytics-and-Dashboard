@@ -59,12 +59,18 @@ Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, A
 
 ### 3. Fat Content by Outlet for Total Sales :
 
-Objective: Compare total sales across different outlets segmented by fat content.
+Objective: Compare total sales across different outlets segmented by fat content.<br>
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+
+> ![Fat Content by Outlet](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/fat_content_by_outlet.png)
+>**Observation :** Across all outlet tiers, Low Fat items consistently generate higher sales compared to Regular items. Tier 3 outlets lead in overall sales, followed by Tier 2 and Tier 1. Blinkit can prioritize Low Fat product stocking across all outlet tiers, with special focus on Tier 3 outlets as they represent the highest sales potential.
 
 ### 4. Total Sales by Outlet Establishment :
 
 Objective: Evaluate how the age or type of outlet establishment influences total sales.
+
+> ![Fat Content by Outlet]()
+>**Observation :** Here 
 
 
 ### 5. Sales by Outlet Size :
@@ -72,12 +78,18 @@ Objective: Evaluate how the age or type of outlet establishment influences total
 Objective: Analyze the correlation between outlet size and total sales.
 
 Chart Type: Donut/ Pie Chart.
+> ![Fat Content by Outlet]()
+>**Observation :** Here 
+
 
 
 ### 6. Sales by Outlet Location :
 Objective: Assess the geographic distribution of sales across different locations.
 
 Chart Type: Funnel Map.
+> ![Fat Content by Outlet]()
+>**Observation :** Here 
+
 
 ### 7. Sales by Item Visibility :
 
@@ -85,6 +97,9 @@ Objective: Understand how the visibility (shelf space/exposure) of items impacts
 Additional KPI Metrics: Average Rating by visibility bucket.
 
 Chart Type: Scatter Plot
+> ![Fat Content by Outlet]()
+>**Observation :** Here 
+
 
 
 ### 8. Sales by Outlet Type : 
@@ -93,6 +108,8 @@ Objective: Compare how different outlet types (Supermarket Type1, Grocery Store,
 Additional KPI Metrics: Average Sales and Average Rating per outlet type.
 
 Chart Type: Bar Chart.
+> ![Fat Content by Outlet]()
+>**Observation :** Here 
 
 
 ### 9. Top 10 Selling Items :
@@ -101,6 +118,8 @@ Objective: Identify the best-performing items in terms of total sales.
 Additional KPI Metrics: Average Rating of top-selling items.
 
 Chart Type: Horizontal Bar Chart.
+> ![Fat Content by Outlet]()
+>**Observation :** Here 
 
 
 
