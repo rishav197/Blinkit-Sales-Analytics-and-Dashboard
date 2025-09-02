@@ -113,9 +113,8 @@ Additional KPI Metrics: Average Sales and Average Rating per outlet type.
 Objective: Identify the best-performing items in terms of total sales.
 Additional KPI Metrics: Average Rating of top-selling items.
 
-Chart Type: Horizontal Bar Chart.
-> ![Fat Content by Outlet]()
->**Observation :** Here 
+> ![Top10 Selling Items](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/top10_selling_items.png)
+>**Observation :** The top 10 selling items, with FDU12 leading the list with 2,371 units sold. Items like FDT07 and NCQ06, also show strong performance, with sales figures above 2,100 units. The remaining items in the top 10 range from FDA04 at 2,072 units to FDL58 at 2,112 units, showing a relatively narrow spread in sales. The company should ensure that these high-demand items are always well-stocked across all outlets to prevent out-of-stock situations. 
 
 
 
