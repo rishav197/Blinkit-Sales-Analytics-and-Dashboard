@@ -104,9 +104,8 @@ Additional KPI Metrics: Average Rating by visibility bucket.
 Objective: Compare how different outlet types (Supermarket Type1, Grocery Store, etc.) contribute to total sales.
 Additional KPI Metrics: Average Sales and Average Rating per outlet type.
 
-Chart Type: Bar Chart.
-> ![Fat Content by Outlet]()
->**Observation :** Here 
+> ![Sales by Outlet Type](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/sales_by_outlet_type.png)
+>**Observation :** The majority of sales come from Supermarket Type1, contributing nearly 66% of total revenue, far surpassing other outlet types. Grocery Stores perform better than Supermarket Types 2 and 3, but their sales remain significantly lower compared to Supermarket Type1. Blinkit should focus on strengthening Supermarket Type1 outlets, as they are the primary revenue drivers. At the same time, it’s worth exploring strategies to boost performance in smaller outlet formats (Type2, Type3, and Grocery Stores) through better product variety, localized promotions, or customer engagement programs.
 
 
 ### 9. Top 10 Selling Items :
