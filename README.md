@@ -53,7 +53,9 @@ Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, A
 Objective: Identify the performance of different item types in terms of total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
-Chart Type: Bar Chart.
+> ![Sales by Item Type](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/sales_by_item_type.png)
+>**Observation :**
+
 
 
 
