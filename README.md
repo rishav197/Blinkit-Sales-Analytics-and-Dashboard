@@ -52,3 +52,14 @@ Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, A
 
 Chart Type: Bar Chart.
 
+
+## Dashboard with Key Insights :
+
+Put here 
+
+
+
+## Conclusion :
+
+Write 
+Here
