@@ -89,14 +89,12 @@ Objective: Assess the geographic distribution of sales across different location
 >**Observation :** Tier 3 outlets lead in sales (472,133), followed by Tier 2 (393,151) and Tier 1 (336,398). This highlights that smaller cities and towns contribute the most to overall sales, while metropolitan (Tier 1) outlets generate the least. Blinkit can strengthen its market share by focusing on Tier 3 outlets through better supply chain support and localized promotions. At the same time, there is an opportunity to revitalize sales in Tier 1 cities by introducing targeted campaigns and premium product offerings.
 
 
-
 ### 7. Sales by Item Visibility :
 
 Objective: Understand how the visibility (shelf space/exposure) of items impacts total sales.
 Additional KPI Metrics: Average Rating by visibility bucket.
 
-Chart Type: Scatter Plot
-> ![Fat Content by Outlet]()
+> ![Sales by Item Visibility](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/sales_by_item_visibility.png)
 >**Observation :** Here 
 
 
