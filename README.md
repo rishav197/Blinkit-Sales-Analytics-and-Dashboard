@@ -45,7 +45,7 @@ Write here
  Objective: Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
-> ![Sales by Fat Content]()
+> ![Sales by Fat Content](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/sales_by_fat_content.png)
 
 
 **2. Total Sales by Item Type :**
