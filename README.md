@@ -122,10 +122,6 @@ Additional KPI Metrics: Average Rating of top-selling items.
 <!-- Dashboard image -->
 <img src="https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/blinkit-sales-analytics-dashboard.jpg" alt="figure0_img" width="100%"/>
 
-<p align="center">
-  <img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure0.jpg" 
-       alt="figure0_img" style="max-width:100%; height:auto;"/>
-</p>
 
 ## Conclusion :
 
