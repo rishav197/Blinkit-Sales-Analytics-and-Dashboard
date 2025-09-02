@@ -82,13 +82,12 @@ Objective: Analyze the correlation between outlet size and total sales.
 >**Observation :** Medium-sized outlets contribute the highest sales (42.3%), followed by Small outlets (37.0%) and High outlets (20.7%). Despite having larger capacity, High outlets record the lowest sales share. Blinkit should strengthen marketing and customer engagement for High outlets to utilize their potential capacity, while continuing to leverage the strong performance of Medium and Small outlets for consistent revenue growth.
 
 
-
 ### 6. Sales by Outlet Location :
 Objective: Assess the geographic distribution of sales across different locations.
 
-Chart Type: Funnel Map.
-> ![Fat Content by Outlet]()
->**Observation :** Here 
+> ![Sales by Outlet Location](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/sales_by_outlet_location.png)
+>**Observation :** Tier 3 outlets lead in sales (472,133), followed by Tier 2 (393,151) and Tier 1 (336,398). This highlights that smaller cities and towns contribute the most to overall sales, while metropolitan (Tier 1) outlets generate the least. Blinkit can strengthen its market share by focusing on Tier 3 outlets through better supply chain support and localized promotions. At the same time, there is an opportunity to revitalize sales in Tier 1 cities by introducing targeted campaigns and premium product offerings.
+
 
 
 ### 7. Sales by Item Visibility :
