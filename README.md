@@ -54,7 +54,8 @@ Objective: Identify the performance of different item types in terms of total sa
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
 > ![Sales by Item Type](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/sales_by_item_type.png)
->**Observation :**
+>**Observation :** Sales are highly concentrated in a few categories — Fruits & Vegetables (178K) and Snack Foods (175K) lead, followed by Household (136K) and Frozen Foods (118K). Categories like Seafood (9K) and Breakfast (15K) contribute very little. Blinkit can prioritize high-demand categories to sustain revenue growth while considering targeted promotions for low-performing categories to improve overall sales balance.
+
 
 
 
