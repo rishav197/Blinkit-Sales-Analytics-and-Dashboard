@@ -95,7 +95,7 @@ Objective: Understand how the visibility (shelf space/exposure) of items impacts
 Additional KPI Metrics: Average Rating by visibility bucket.
 
 > ![Sales by Item Visibility](https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/Plots/sales_by_item_visibility.png)
->**Observation :** Here 
+>**Observation :** Most products with low visibility (0–0.05) still generate a significant portion of sales, while higher visibility does not consistently translate to higher sales. Ratings appear fairly evenly distributed across all visibility levels, suggesting customer satisfaction is not strongly dependent on shelf exposure. Blinkit can focus on optimizing product quality and ratings rather than just increasing shelf space, as even low-visibility items can perform well. This indicates a strong opportunity to boost underexposed high-performing products through promotions or better placement strategies.
 
 
 
