@@ -14,7 +14,7 @@ This dashboard will enable stakeholders to make data-driven decisions for improv
 
 
 ## Project Overview :  
-Write here
+In this project, I analyzed the Blinkit dataset using EDA and Power BI to uncover key insights into sales performance, customer behavior, and inventory distribution. The visualizations highlight crucial business patterns and provide actionable recommendations for optimizing revenue and customer satisfaction.
 
 
 ## Dataset :
@@ -38,7 +38,6 @@ Write here
 ## EDA and Detailed Insights :
 
 
-<!-- Charts requirements -->
 ### 1. Total Sales by Fat Content :
 
 Objective: Analyze the impact of fat content on total sales.<br>
