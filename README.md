@@ -48,7 +48,7 @@ Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, A
 >**Observation :** Low Fat items account for 64.6% of total sales, while Regular items contribute 35.4%, showing a clear customer preference toward Low Fat products. Blinkit can focus inventory and marketing efforts on Low Fat products to maximize sales, while designing targeted promotions for Regular items to balance demand.
 
 
-**2. Total Sales by Item Type :**
+### 2. Total Sales by Item Type :
 
 Objective: Identify the performance of different item types in terms of total sales.<br>
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
@@ -57,6 +57,50 @@ Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, A
 >**Observation :** Sales are highly concentrated in a few categories — Fruits & Vegetables (178K) and Snack Foods (175K) lead, followed by Household (136K) and Frozen Foods (118K). Categories like Seafood (9K) and Breakfast (15K) contribute very little. Blinkit can prioritize high-demand categories to sustain revenue growth while considering targeted promotions for low-performing categories to improve overall sales balance.
 
 
+### 3. Fat Content by Outlet for Total Sales :
+
+Objective: Compare total sales across different outlets segmented by fat content.
+Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+
+### 4. Total Sales by Outlet Establishment :
+
+Objective: Evaluate how the age or type of outlet establishment influences total sales.
+
+
+### 5. Sales by Outlet Size :
+
+Objective: Analyze the correlation between outlet size and total sales.
+
+Chart Type: Donut/ Pie Chart.
+
+
+### 6. Sales by Outlet Location :
+Objective: Assess the geographic distribution of sales across different locations.
+
+Chart Type: Funnel Map.
+
+### 7. Sales by Item Visibility :
+
+Objective: Understand how the visibility (shelf space/exposure) of items impacts total sales.
+Additional KPI Metrics: Average Rating by visibility bucket.
+
+Chart Type: Scatter Plot
+
+
+### 8. Sales by Outlet Type : 
+
+Objective: Compare how different outlet types (Supermarket Type1, Grocery Store, etc.) contribute to total sales.
+Additional KPI Metrics: Average Sales and Average Rating per outlet type.
+
+Chart Type: Bar Chart.
+
+
+### 9. Top 10 Selling Items :
+
+Objective: Identify the best-performing items in terms of total sales.
+Additional KPI Metrics: Average Rating of top-selling items.
+
+Chart Type: Horizontal Bar Chart.
 
 
 
