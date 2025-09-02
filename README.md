@@ -19,8 +19,16 @@ This dashboard will enable stakeholders to make data-driven decisions for improv
 ## KPI’s Requirements :
 
 1. Total Sales : The overall revenue generated from all items sold.
+- Total Sales : $1201681 
+
 2. Average Sales : The average revenue per sale
+- Average Sales : $141
+
 3. Number of Items : The total count of different items sold.
+- No. of Items Sold : 8523
+
 4. Average Rating : The average customer rating for items sold. 
+- Average Ratings : 4
+
 
 
