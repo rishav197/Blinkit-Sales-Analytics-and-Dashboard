@@ -38,12 +38,15 @@ Write here
 
 ## EDA and Detailed Insights :
 
-**1. Total Sales by Fat Content :**
+
+<!-- Charts requirements -->
+### 1. Total Sales by Fat Content :
 
  Objective: Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
-Chart Type: Donut Chart/Pie Chart.
+> ![Sales by Fat Content]()
+
 
 **2. Total Sales by Item Type :**
 
@@ -51,6 +54,7 @@ Objective: Identify the performance of different item types in terms of total sa
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
 Chart Type: Bar Chart.
+
 
 
 ## Dashboard with Key Insights :
